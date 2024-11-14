@@ -1,6 +1,6 @@
 version: workspaces/v0.1
 name: Alice
-domains: yopmail.com
+domains: '@yopmail.com'
 app_properties:
   WELCOME_DATASET_ALIAS: welcome
 default_data_store: Warehouse
